@@ -146,6 +146,6 @@ The file `app/trades/loading.jsx` provides the loading UI expected by Next.js Ap
 - [Next.js App Router](https://nextjs.org/docs/app)
 - [Solidity docs](https://docs.soliditylang.org/)
 
-## Notes for the CEO
+## Note
 
 The Week 5 work intentionally keeps all deliverables inside the Week 5 folder and leaves Weeks 1–4 unchanged. The statistical workflow is grounded in a documented candidate grid, repeated backtests, and transparent error reporting rather than a single train/test split.
